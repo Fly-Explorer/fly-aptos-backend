@@ -1,3 +1,6 @@
 [submodule "flyfish_agent_backend"]
 	path = flyfish_agent_backend
 	url = https://github.com/AnhQuan2004/flyfish_agent.git
+[submodule "flyfish_agent"]
+	path = flyfish_agent
+	url = https://github.com/AnhQuan2004/aptos_agent.git
